@@ -46,9 +46,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name: T Ajay
+### Name: T Mounish
 
-### Register Number: 212223230007
+### Register Number: 212223240098
 ```python
 import torch
 import torch.nn as nn
